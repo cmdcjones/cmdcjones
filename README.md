@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cmdcjones
 - 👀 I’m interested in working as a Software Engineer
 - 🌱 I’m currently learning Python, Django, HTML/CSS/JS, React, and MySQL
-- 💞️ I’m looking to collaborate on new projects to grow my programming brain and to share my own knowledge
+- 💞️ I’m looking to collaborate on new projects to grow my programming brain and share my own knowledge
 - 📫 How to reach me - Email: domecj13@gmail.com Discord: blayshun#3474
 
 <!---
