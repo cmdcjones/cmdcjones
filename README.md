@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Dominique, Welcome to My GitHub! :open_file_folder:</h1>
-<h2 align="center">I am a Washington, D.C based Software Developer creating full stack web applications</h2>
+<h2 align="center">I am a Washington, D.C based Software Engineer creating full stack web applications</h2>
 
 - :construction: I’m currently working on a chat application powered by JavaScript and WebRTC
 - 📫 How to reach me - Email: domecj13@gmail.com Discord: blayshun#3474
