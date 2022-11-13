@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @cmdcjones
-- 👀 I’m interested in working as a Software Developer
-- 🌱 I’m currently learning JavaScript, React, Next, and Rust
-- 💞️ I’m looking to collaborate on new projects to grow my programming brain and share my own knowledge
+<h1 align="center">👋 Hi, I’m Dominique, Welcome to My GitHub! :open_file_folder:</h1>
+<h2 align="center">I am a Washington, D.C based Software Developer creating full stack web applications</h2>
+
+- :construction: I’m currently working on a chat application powered by JavaScript and WebRTC
 - 📫 How to reach me - Email: domecj13@gmail.com Discord: blayshun#3474
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cmdcjones" target="_blank"><img align="center" src="https://i.ibb.co/Nn7fSV4/icons8-twitter-64.png" alt="cmdcjones" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/dominique-chin-jones-848b04150/" target="_blank"><img align="center" src="https://i.ibb.co/LNBRLRM/icons8-linkedin-64.png" alt="dominique-chin-jones" height="50" width="50" /></a>
+</p>
+
+[![Dominique's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmdcjones&show_icons=true&theme=tokyonight)](https://github.com/cmdcjones/github-readme-stats)
 
 <!---
 cmdcjones/cmdcjones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
