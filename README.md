@@ -3,7 +3,7 @@
 
 - :construction: I’m currently working on a chat application powered by JavaScript and WebRTC
 - 📫 How to reach me - Email: domecj13@gmail.com Discord: blayshun#3474
-- Take a look at my <a href="https://github.com/cmdcjones/cmdcjones/raw/main/DominiqueChinJones.pdf" target="_blank">resume</a>
+- Take a look at my <a href="DominiqueChinJones.pdf" target="_blank" download>resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
