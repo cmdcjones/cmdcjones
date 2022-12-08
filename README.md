@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Dominique, Welcome to My GitHub! :open_file_folder:</h1>
 <h2 align="center">I am a Washington, D.C based Software Engineer creating full stack web applications</h2>
 
-- :construction: I’m currently learning Go, concurrency and containerization.
+- :construction: I’m currently learning Rust, concurrency and containerization.
 - 📫 How to reach me - Email: domecj13@gmail.com Discord: blayshun#3474
 - Take a look at my <a href="DominiqueChinJones.pdf" target="_blank" download>resume</a>
 
