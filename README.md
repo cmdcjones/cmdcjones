@@ -2,7 +2,7 @@
 <h2 align="center">I am a Washington, D.C based Software Engineer creating full stack web applications</h2>
 
 - :construction: I’m currently learning Rust, databases and cloud computing.
-- 📫 How to reach me - Email: domecj13@gmail.com Discord: blayshun#3474
+- 📫 How to reach me - Email: domecj13@gmail.com
 - Take a look at my <a href="DominiqueChinJones.pdf" target="_blank" download>resume</a>
 
 <h3 align="left">Connect with me:</h3>
