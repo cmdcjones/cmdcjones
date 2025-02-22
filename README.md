@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cmdcjones" target="_blank"><img align="center" src="https://i.ibb.co/Nn7fSV4/icons8-twitter-64.png" alt="cmdcjones" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/dominique-chin-jones/" target="_blank"><img align="center" src="https://i.ibb.co/LNBRLRM/icons8-linkedin-64.png" alt="dominique-chin-jones" height="50" width="50" /></a>
 </p>
 
