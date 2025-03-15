@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Dominique, Welcome to My GitHub! :open_file_folder:</h1>
-<h2 align="center">I am a NYC Backend Web Engineer creating full stack web applications</h2>
+<h2 align="center">I am a NYC Software Engineer creating full stack web applications</h2>
 
 - :construction: I’m currently learning Rust, Korean and distributed systems.
 - 📫 How to reach me - Email: domecj13@gmail.com
